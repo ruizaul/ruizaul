@@ -18,11 +18,11 @@ Currently working at **Hospital San Diego** and exploring cloud technologies.
 
 ## Tech Stack
 
-**Frontend:** React, TypeScript, Next.js, HTML5, CSS3  
-**Backend:** Node.js, .NET Core, C#, Python  
-**Cloud:** AWS, Azure, Kubernetes  
-**Database:** PostgreSQL  
-**Tools:** Linux, Terraform
+**Frontend:** TypeScript, React, Vite, Next.js, HTML5, CSS3, TailwindCSS, ... 
+**Backend:** Node.js, .NET Core, C#, Python, ...
+**Cloud:** AWS, Azure, VPS, ...
+**Database:** PostgreSQL, MongoDB, MSSQLServer, ... 
+**Devops:** Linux, Bash, Docker, Kubernetes, Terraform, ...
 
 ## Stats
 
