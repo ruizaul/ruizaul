@@ -1,4 +1,9 @@
-# Saúl Fimbres
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ruizaul/ruizaul/output/snake.svg" alt="Snake eating my commits" />
+</div>
+
+# Saúl Eduardo Fimbres Ruiz
 
 > Fullstack Developer from México 🇲🇽
 
@@ -31,13 +36,4 @@ Currently working at **Hospital San Diego** and exploring cloud technologies.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fimbressaul/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:fimbressaul@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sf-resume.vercel.app/)
-
-## Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ruizaul/ruizaul/output/snake.svg" alt="Snake eating my commits" />
-</div>
-
 ---
-
-*"Code is poetry written in logic"*
