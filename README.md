@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ruizaul/ruizaul/output/snake.svg" alt="Snake eating my commits" />
-</div>
-
 # Saúl Eduardo Fimbres Ruiz
 > Fullstack Developer from México 🇲🇽
 
@@ -23,6 +19,10 @@ Currently working at **[Hospital San Diego de Alcalá](https://hospitalsandiegod
 **Database:** PostgreSQL, MongoDB, MSSQLServer, ... 
 
 **Devops:** Linux, Bash, Docker, Kubernetes, Terraform, ...
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ruizaul/ruizaul/output/snake.svg" alt="Snake eating my commits" />
+</div>
 
 ## Stats
 <div align="center">
