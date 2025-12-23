@@ -24,12 +24,6 @@ Currently working at **[Hospital San Diego de Alcalá](https://hospitalsandiegod
   <img src="https://raw.githubusercontent.com/ruizaul/ruizaul/output/snake.svg" alt="Snake eating my commits" />
 </div>
 
-## Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruizaul&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruizaul&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="165" />
-</div>
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fimbressaul/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:fimbressaul@hotmail.com)
